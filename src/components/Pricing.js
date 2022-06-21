@@ -21,12 +21,12 @@ function Pricing() {
                                 <FaFire />
                             </div>
                             <h3>Starter</h3>
-                            <h4>$8.99</h4>
+                            <h4>$4.99</h4>
                             <p>per month</p>
                             <ul className="pricing__container-features">
-                                <li>Unlimited Transactions</li>
-                                <li>2% Cash Back</li>
-                                <li>$10,000 Limit</li>
+                                <li>10 mbps download speed</li>
+                                <li>Access to 24/7 online safety experts</li>
+                                <li>50 gb data cap</li>
                             </ul>
                             <Button buttonSize='btn--wide' buttonColor='primary'>
                                 Choose Plan
@@ -39,12 +39,12 @@ function Pricing() {
                                 <BsXDiamondFill />
                             </div>
                             <h3>Gold</h3>
-                            <h4>$29.99</h4>
+                            <h4>$9.99</h4>
                             <p>per month</p>
                             <ul className="pricing__container-features">
-                                <li>3.5% Cash Back</li>
-                                <li>1000 Transactions</li>
-                                <li>$100,000 limit</li>
+                                <li>100 mbps download speed</li>
+                                <li>High priority connection</li>
+                                <li>100 gb per month data cap</li>
                             </ul>
                             <Button buttonSize='btn--wide' buttonColor='primary'>
                                 Choose Plan
@@ -57,12 +57,12 @@ function Pricing() {
                                 <GiCrystalize />
                             </div>
                             <h3>Diamond</h3>
-                            <h4>$99.99</h4>
+                            <h4>$24.99</h4>
                             <p>per month</p>
                             <ul className="pricing__container-features">
-                                <li>Unlimited Transactions</li>
-                                <li>5% Cash Back</li>
-                                <li>No limit</li>
+                                <li>Unlimited download speed</li>
+                                <li>Highest priority connection</li>
+                                <li>No data caps</li>
                             </ul>
                             <Button buttonSize='btn--wide' buttonColor='primary'>
                                 Choose Plan

@@ -1,3 +1,11 @@
+Use these scripts on production in package.json. It runs locally the way it is.
+
+"build": "node --max_old_space_size=2560 node_modules/.bin/react-scripts build", 
+
+"start": "node --max_old_space_size=2560 node_modules/.bin/react-scripts start",
+
+-----------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import { Link } from 'react-router-dom'
 import { FaBars, FaTimes } from 'react-icons/fa'
-import { TbArmchair2 } from 'react-icons/tb'
+import { MdAdminPanelSettings } from 'react-icons/md'
 import { Button } from '../Button';
 import './Navbar.css';
 import { IconContext } from 'react-icons/lib';
@@ -29,8 +29,8 @@ function Navbar() {
         <div className='navbar'>
             <div className="navbar-container container">
                 <Link to='/' className="navbar-logo" onClick={closeMobileMenu}>
-                    <TbArmchair2 className='navbar-icon'/>
-                    Luxuriant
+                    <MdAdminPanelSettings className='navbar-icon'/>
+                    Virtual VPN
                 </Link>
                 <div className="menu-icon" onClick={handleClick}>
                     {click ? <FaTimes /> : <FaBars />}

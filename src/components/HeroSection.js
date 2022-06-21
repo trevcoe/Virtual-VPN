@@ -3,8 +3,6 @@ import { Button } from '../Button';
 import { Link } from 'react-router-dom';
 import './HeroSection.css';
 
-// headline not camelcased
-
 function HeroSection({
     lightBg, topLine, lightText, lightTextDesc, headline, description, buttonLabel, img, alt, imgStart
 }) {

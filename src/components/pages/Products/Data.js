@@ -3,11 +3,11 @@ export const homeObjOne = {
     lightText: true,
     lightTextDesc: true,
     topLine: 'Exclusive Access',
-    headline: 'Incredible Protection with zero fees.',
-    description: 'Get access to all our amazing VPN services today. Absolutely zero fees or surprise cost.',
+    headline: 'Unlimited Transactions with zero fees',
+    description: 'Get access to blah blah blbhaaabahalhbhal',
     buttonLabel: 'Get Started',
     imgStart:'',
-    img: 'images/shield3.png',
+    img: 'images/svg-1.svg',
     alt: 'Credit Card'
 }
 
@@ -16,9 +16,9 @@ export const homeObjTwo = {
     lightText: true,
     lightTextDesc: true,
     topLine: '100% SECURE',
-    headline: 'Stay protected 24/7. Anywhere, anytime.',
+    headline: 'Stay protected 24/7 anywhere anytime',
     description:
-      'Stay connected anywhere in the world. Never worry about malicious websites again.',
+      'We have you covered no matter where you are located. Over 140 locations worldwide to ensure you have access anytime',
     buttonLabel: 'Learn More',
     imgStart: '',
     img: 'images/svg-5.svg',
@@ -30,9 +30,9 @@ export const homeObjTwo = {
     lightText: false,
     lightTextDesc: false,
     topLine: 'EASY SETUP',
-    headline: 'Super fast and simple setup.',
+    headline: 'Super fast and simple onboarding process',
     description:
-      "Virtual VPN connects in seconds. Leave the setup to us!",
+      "Get everything set up and ready in under 10 minutes. All you need to do is add your information and you're ready to go.",
     buttonLabel: 'Start Now',
     imgStart: 'start',
     img: 'images/svg-7.svg',
@@ -44,9 +44,9 @@ export const homeObjTwo = {
     lightText: true,
     lightTextDesc: true,
     topLine: 'DATA ANALYTICS',
-    headline: "We don't keep or sell your data.",
+    headline: 'Every transaction is stored on our secure cloud database',
     description:
-      "Our customers deserve the best services without compromise. We'll never store or sell your data.",
+      'Never ever have to worry again about saved reciepts. We store your data, so you can access it anytime.',
     buttonLabel: 'Sign Up Now',
     imgStart: 'start',
     img: 'images/svg-8.svg',
