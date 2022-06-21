@@ -1,4 +1,4 @@
-Use these scripts on production in package.json. It runs locally the way it is.
+Using these scripts on production in package.json. Websites crashed otherwise.
 
 "build": "node --max_old_space_size=2560 node_modules/.bin/react-scripts build", 
 
